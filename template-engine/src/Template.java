@@ -21,7 +21,7 @@ public class Template {
 		return result;
 	}
 	
-	//defaut constructor
+	// constructor
 	public Template(String template) {
 			this.template = template;
 			this.variables = new HashMap<>();
